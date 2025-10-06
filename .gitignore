@@ -1,6 +1,15 @@
+
+# Maven
+# Maven
 target/
-**/target/
+
+!.mvn/wrapper/maven-wrapper.jar
+
 .idea/
-.vscode/
+
 *.iml
+
+.vscode/
+
 .DS_Store
+

@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.*;
 public class CarController {
   @GetMapping("/{id}/availability")
   public CarAvailability availability(@PathVariable String id){
-    boolean ok = !id.endsWith("5"); // ديمو: أي id ينتهي بـ 5 = غير متاح
+boolean ok = !id.endsWith("5"); // ✅ جافا صحيحة
     return new CarAvailability(id, ok, ok ? "Gaza-Branch" : "N/A");
   }
 }
