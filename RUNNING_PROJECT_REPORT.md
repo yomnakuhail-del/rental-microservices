@@ -7,10 +7,10 @@
 ## Cover Page
 - **Course**: Advanced SW Engineering (SDEV 4304)  
 - **Project Title**: Rental Microservices  
-- **Student Name**: <<اكتب اسمك هنا>>  
-- **Student ID**: <<اكتب رقمك هنا>>  
+- **Student Name**: YUMNA KUHAIL 
+- **Student ID**: 220211735  
 - **Supervisor**: Dr. Abdelkareem Alashqar  
-- **Date**: <<اليوم/الشهر/السنة>>
+- **Date**: 06/10/2025
 
 <div style="page-break-after: always;"></div>
 
