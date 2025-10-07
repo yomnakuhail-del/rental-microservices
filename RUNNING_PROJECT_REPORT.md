@@ -85,3 +85,4 @@
 ## 13. Conclusion
 - ملخص لما تم إنجازه مقارنة بالأهداف.
 
+open -a "Visual Studio Code" /Users/macbook/rental-microservices/RUNNING_PROJECT_REPORT.md
